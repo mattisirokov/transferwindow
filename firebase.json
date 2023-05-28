@@ -1,0 +1,6 @@
+{
+  "firestore": {
+    "rules": "transferwindow",
+    "indexes": "firestore.indexes.json"
+  }
+}
